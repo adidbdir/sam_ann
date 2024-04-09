@@ -1,0 +1,3 @@
+[submodule "segment-anything-annotator"]
+	path = segment-anything-annotator
+	url = https://github.com/haochenheheda/segment-anything-annotator.git
